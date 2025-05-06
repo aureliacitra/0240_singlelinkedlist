@@ -123,3 +123,8 @@ void traverse()
     }
 };
 
+int main()
+{
+Linkedlist mhs;
+int nim;
+char ch;
