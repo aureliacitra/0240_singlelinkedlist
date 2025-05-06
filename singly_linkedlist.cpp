@@ -142,4 +142,5 @@ while (1)
          << "Masukkan pilihan (1-5): ";
 
     cin  >> ch;
+    switch (ch)
    
