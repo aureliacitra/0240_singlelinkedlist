@@ -19,4 +19,13 @@ class Linkedlist
         START = NULL;
     }
 
-   
+    void addNode()
+    {
+        int nim;
+        cout << "\nMasukkan Nomer Mahasiswa: ";
+        cin >> nim;
+
+        Node *nodeBaru = new Node;
+        nodeBaru->noMhs = nim;
+
+       
